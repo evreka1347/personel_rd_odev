@@ -1,0 +1,9 @@
+{
+  "personel": {
+    "isim": "Esma Çoban",
+    "yas": 31,
+    "departman": "Yazılım Departmanı",
+    "pozisyon": "Yazılım Test Uzmanı",
+    "maas": 10000
+  }
+}
